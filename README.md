@@ -18,3 +18,12 @@ Esta es la primera prueba de creación de un repositorio desde cero:
 *Agregar un mensaje de confirmación y, opcionalmente, agregar una descripción para entender el cambio realizado, luego hacer clic en Confirmar cambios. Los "cambios de confirmación" se utilizan para guardar los cambios en el repositorio
 *Luego de guardar los cambios regresar a la pantalla de inicio haciendo clic en el enlace del nombre del repositorio
 *Verificar que el archivo Readme sí haya registrado los cambios
+
+Crear un nuevo archivo:
+
+*Crear un nuevo archivo utilizando el editor web integrado proporcionado por GitHub que se ejecuta en el navegador
+*Hacer clic en Agregar archivo
+*Hacer clic en Crear nuevo archivo
+*Para crear un archivo python llamado primer_python.py. Primero, proporcionar el nombre del archivo. Luego, agregar un comentario que describa el código, luego agregar el código.
+*Una vez terminado, confirmar el cambio en el repositorio. Se puede ver que el archivo ahora se agregó al repositorio y la lista del repositorio muestra cuándo se agregó o cambió el archivo.
+*Cuando se necesite cambiar el archivo, se puede editar de nuevo haciendo clic en el nombre del archivo y, a continuación, haciendo clic en el icono del lápiz, realizar los cambios y confirmar los cambios.
