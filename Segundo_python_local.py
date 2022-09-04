@@ -1,3 +1,4 @@
+#Se crea este archivo para practicar carga de archivo local
 import numpy as np
 import pandas as pd
 import warnings
